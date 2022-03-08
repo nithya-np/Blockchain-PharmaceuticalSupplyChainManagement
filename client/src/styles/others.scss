@@ -1,0 +1,62 @@
+/* manbutton3 */
+.hover-decoration2{
+    display: flex;
+    flex-direction: row;
+    padding: 2px 80px;
+    align-items: center;
+   .box1{
+    background-color: #bbf0f0;
+    color: black;
+    border: 2px solid #555555;
+    padding: 5px 10px;
+   }
+  }
+
+  /* manbutton3 */
+.hover-decoration3{
+    display: flex;
+    flex-direction: row;
+    padding: 2px 300px;
+    align-items: center;
+  }
+
+  // orderMedicines
+.hover-decoration4{
+    display: flex;
+    flex-direction: row;
+    padding: 2px 105px;
+    align-items: center;
+   .box4{
+    background-color: #bbf0f0;
+    color: black;
+    border: 2px solid #555555;
+    padding: 5px 20px;
+   }
+}
+
+
+// supplier
+header {
+  display:flex;
+  align-items: center;
+  background-color: rgb(53, 52, 52);
+  padding: 10px;
+  text-align: left;
+  font-size: 15px;
+  color: rgb(255, 255, 255);
+  width: 100%;
+  margin-right: 100%;
+}
+
+.icon1{
+  float:right;
+  margin-left: auto;
+}
+
+// back button
+.icon2{
+  padding:10px;
+  float:left;
+  margin-left: auto;
+}
+
