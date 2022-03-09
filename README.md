@@ -2,7 +2,7 @@
 
 ## Supply Chain Management using Blockchain:
 
-This application aims to aid in supply chain management using the technology of blockchain
+This application aims to aid in pharmaceutical supply chain management using the technology of blockchain.
 
 ## How to Run:
 
